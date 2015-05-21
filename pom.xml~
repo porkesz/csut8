@@ -8,17 +8,14 @@
 	<version>1.0</version>
 	<name>math</name>
 	<url>http://www.inf.unideb.hu/~jeszy/progkorny/</url>
-	
 	<licenses>
 		<license>
 			<name>Apache License, Version 2.0</name>
 			<url>http://www.apache.org/license/LICENSE-2.0.html</url>
 		</license>
 	</licenses>
-	<organization>
-		<name>Debreceni Egyetem</name>
-		<url>http://www.inf.unideb.hu</url>	
-	</organization>
+
+
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
